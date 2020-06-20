@@ -1,0 +1,43 @@
+img{
+    display: block;
+}
+
+
+ul{
+    list-style-type: none;
+    /* margin: 0px; */
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.PS4{
+    background-color: blue;
+}
+
+.nintendo{
+background-color: red;
+}
+
+.PC{
+    background-color: green;
+}
+
+
+table{
+border-collapse: collapse;
+}
+
+.tr{
+    background-color: slategray;
+    font-size: 20px;
+}
+
+/* th{
+    border: 1px solid palevioletred;
+
+} */
+th
+,
+td{
+    border:1px solid palevioletred;
+}
